@@ -71,7 +71,7 @@ export function Subscribe(){
 
         </div>
       </div>
-      <img src={code_mockup} alt="" />
+      <img src={code_mockup} alt="imagem da tela do VS Code" />
     </div>
   )
 }
